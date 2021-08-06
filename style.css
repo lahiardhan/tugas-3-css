@@ -1,0 +1,31 @@
+p{
+   background-color: grey;
+}
+
+p.first_p{
+   background-color: #d17f2e;
+   border-style: solid;
+   border-width: 1px;
+}
+
+p.second_p{
+   background-color: blue;
+   color: white;
+   border-color: black;
+   border-style: solid;
+   border-width: 1px;
+}
+p.third_p{
+   font-size: 20px;
+   background-color: white;
+   font-family: monospace;
+   border-style: solid;
+   border-width: 1px;
+}
+
+p.fourth_p{
+   font-size: 20px;
+   font-weight: 900;
+   border-style: solid;
+   border-width: 1px;
+}
